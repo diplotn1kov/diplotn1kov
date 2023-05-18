@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**plodim/plodim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with experience in two different fields (electricity and banking).
 
-Here are some ideas to get you started:
+**In my life**, I follow the rule:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <blockquote>
+    <strong style="color: black;">«The one who keeps going will overcome any obstacle»</strong>
+  </blockquote>
+</div>
+
+So I'm constantly learning while also not forgetting to improve what I already know.  
+
+**In my work**, I adhere to the rule:
+
+<div align="center">
+  <blockquote>
+    <strong style="color: black;">«Work smart, not just hard»</strong>
+  </blockquote>
+</div>
+
+That's why I try to automate most of my decisions.
+
+I am always open to everything new and will be glad to meet you!
+
+### Hard-skills:
+- Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy and etc.)
+- SQL (Oracle, PostgreSQL, ClickHouse, MS SQL, Vertica)
+- MS Excel
+- MS Power BI
+- Tableau
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=plotn1koff)](https://github.com/ryo-ma/github-profile-trophy)
