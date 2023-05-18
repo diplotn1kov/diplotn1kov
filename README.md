@@ -30,6 +30,3 @@ I am always open to everything new and will be glad to meet you!
 - MS Excel
 - MS Power BI
 - Tableau
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=plotn1koff)](https://github.com/ryo-ma/github-profile-trophy)
