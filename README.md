@@ -25,8 +25,7 @@ That's why I try to automate most of my decisions.
 I am always open to everything new and will be glad to meet you!
 
 ### Hard-skills:
-- Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy and etc.)
-- SQL (Oracle, PostgreSQL, ClickHouse, MS SQL, Vertica)
-- MS Excel
-- MS Power BI
-- Tableau
+- Python
+- SQL (Oracle, PostgreSQL, ClickHouse, Vertica)
+- MS Excel | Power BI
+- Apache Airflow | InformaticaPC
