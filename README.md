@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Analyst with experience in two different fields (electricity and banking).
+I have an experience in two different fields (electricity and banking).
 
 **In my life**, I follow the rule:
 
@@ -22,10 +22,11 @@ So I'm constantly learning while also not forgetting to improve what I already k
 
 That's why I try to automate most of my decisions.
 
-I am always open to everything new and will be glad to meet you!
+Progress is my compass. I aim to collaborate with value-driven organizations where I can contribute to shared growth and meaningful innovation.  
 
 ### Hard-skills:
+- Team Management
 - Python
-- SQL (Oracle, PostgreSQL, ClickHouse, Vertica)
-- MS Excel | Power BI
-- Apache Airflow | InformaticaPC
+- SQL
+- MS Power BI | Excel
+- Apache Airflow | Informatica PC
